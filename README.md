@@ -1,5 +1,5 @@
 # Hair-donations
-I run an organization which collects hair donations to create wigs for children suffering from hair loss due to disease. I would like to create a system which will record all donations made.
+I run an organization which collects hair donations to create wigs for children suffering from hair loss due to illness. I would like to create a system which will record all donations made.
 
 ## Spec
 The full spec is included in the repo in the file called spec.sql.
